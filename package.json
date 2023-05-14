@@ -1,4 +1,15 @@
 {
-  "name": "yarn3",
-  "packageManager": "yarn@3.5.0"
+  "name": "leetcode_typescript",
+  "private": true,
+  "devDependencies": {
+    "@types/jest": "^29.5.1",
+    "esno": "^0.16.3",
+    "jest": "^29.5.0",
+    "ts-jest": "^29.1.0",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.0.4"
+  },
+  "scripts": {
+    "test": "jest"
+  }
 }
